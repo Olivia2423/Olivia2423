@@ -1,6 +1,6 @@
 # Olivia Christy Kuitchoua Kewang
 
-Recent Honours Bachelor of Technology in Software Development graduate with application-development and workflow-automation experience at CIBC.
+Recent Honours Bachelor of Technology in Software Development graduate with application-development and workflow-automation experience.
 
 I build reliable applications, APIs, data solutions and business automations that turn operational problems into practical, maintainable tools.
 
