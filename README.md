@@ -4,13 +4,38 @@ Recent Honours Bachelor of Technology in Software Development graduate with appl
 
 I build reliable applications, APIs, data solutions and business automations that turn operational problems into practical, maintainable tools.
 
-## Technologies
+## Tech Stack
 
-- **Languages:** Python, TypeScript, JavaScript and SQL
-- **Development:** React, React Native, Node.js, Express and FastAPI
-- **Data:** PostgreSQL, MongoDB, PySpark, Airflow and Power BI
-- **Automation:** Power Apps, Power Automate and AI-assisted development
-- **Engineering:** REST APIs, Git, Docker, CI/CD, unit testing and integration testing
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="Programming languages" />
+</p>
+
+### Frameworks and Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi" alt="Frameworks and development tools" />
+</p>
+
+### Data and Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Databases" />
+</p>
+
+### Cloud and Engineering Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vscode" alt="Cloud and engineering tools" />
+</p>
+
+### Enterprise and Automation
+
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 
 ## Featured Projects
 
