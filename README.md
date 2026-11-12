@@ -1,8 +1,9 @@
 # Olivia Christy Kuitchoua Kewang
 
-Recent Honours Bachelor of Technology in Software Development graduate with application-development and workflow-automation experience.
+I’m a recent Honours Bachelor of Technology in Software Development graduate with experience building full-stack applications, workflow automations, APIs and data solutions. My work spans Python, TypeScript, React, Node.js, SQL, cloud technologies and Microsoft Power Platform.
+I enjoy turning operational challenges into practical, maintainable solutions—from automating business processes to developing real-time platforms and data pipelines. I’m especially interested in software development, enterprise applications, AI-assisted development and intelligent automation.
 
-I build reliable applications, APIs, data solutions and business automations that turn operational problems into practical, maintainable tools.
+I bring a combination of technical problem-solving, attention to quality and the ability to understand business needs. I’m currently seeking opportunities where I can contribute to meaningful products while continuing to grow as a developer.
 
 ## Tech Stack
 
